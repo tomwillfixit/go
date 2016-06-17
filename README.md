@@ -1,6 +1,8 @@
-# Dockercon 2016 Warm up : Simple Go examples for beginners
+
 
 ![dockercon](img/dockercon.png)
+
+# Simple Go examples for beginners
 
 With Dockercon 2016 just around the corner it feels like the perfect time to learn Go.
 
